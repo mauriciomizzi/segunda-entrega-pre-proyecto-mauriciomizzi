@@ -1,0 +1,52 @@
+ {
+}
+
+/* HEADER */
+.logo {
+  width: 120px;
+  padding: 10px;
+}
+
+h1 {
+  font-weight: bold;
+  text-align: center;
+  padding-top: 35px;
+  font-weight: 700;
+  font-size: 50px;
+}
+h2 {
+  font-weight: bold;
+  text-align: center;
+  padding-top: 35px;
+}
+
+header {
+  display: flex;
+  background-image: url(../imagaviones/su35/2\ Su-35s.jpg);
+  justify-content: space-between;
+  align-content: center;
+}
+
+/* NAV */
+
+/* MAIN CARPETA HISTORIA */
+.escudo {
+  width: 50px;
+}
+
+.aereo1 {
+  height: 250px;
+  margin: 20px;
+}
+
+.ae3 {
+  display: flex;
+  justify-content: center;
+  align-content: center;
+}
+
+.ae4 {
+  display: flex;
+  justify-content: center;
+  align-content: center;
+}
