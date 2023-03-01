@@ -19,7 +19,7 @@ h2 {
 
 header {
   display: flex;
-  background-image: url(../imagaviones/su35/2\ Su-35s.jpg);
+  background-image: url(../imagaviones/su35/1\ su35.jpg);
   justify-content: space-between;
   align-content: center;
 }
@@ -37,6 +37,10 @@ header {
 }
 
 /* MAIN INDEX */
+
+main {
+  margin: 15px;
+}
 
 .aereo {
   height: 200px;
@@ -76,5 +80,24 @@ header {
   height: 320px;
   margin: 60px 50px;
   display: flex;
+  justify-content: center;
+}
+/* MAIN CARPETA CONTACTO*/
+
+.formulario {
+  margin: 100px 200px;
+}
+.mapa {
+  background-color: rgb(219, 219, 200);
+  justify-content: center;
+  text-align: center;
+  margin: 30px;
+}
+/* MAIN CARPETA ARMA*/
+
+.imgcarousel {
+  width: 100%;
+}
+.maincarousel {
   justify-content: center;
 }
